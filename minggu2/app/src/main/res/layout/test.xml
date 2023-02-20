@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/purple_200"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".linierActivity">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="112dp"
+        android:layout_height="105dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/circle"
+        android:padding="15dp"
+        android:text="Linier layout"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="112dp"
+        android:layout_height="105dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/circle"
+        android:padding="15dp"
+        android:text="Horizontal layout"
+        android:textSize="15sp"
+        android:textAppearance="?android:textAppearanceLarge" />
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="112dp"
+        android:layout_height="105dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/circle"
+        android:padding="15dp"
+        android:text="Table layout"
+        android:textSize="15sp"
+        android:textAppearance="?android:textAppearanceLarge" />
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="112dp"
+        android:layout_height="105dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/circle"
+        android:padding="15dp"
+        android:text="Table layout"
+        android:textSize="15sp"
+        android:layout_
+        android:textAppearance="?android:textAppearanceLarge" />
+</LinearLayout>
