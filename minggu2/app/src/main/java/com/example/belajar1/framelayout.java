@@ -9,8 +9,6 @@ import com.example.belajar1.databinding.ActivityMainBinding;
 
 public class framelayout extends AppCompatActivity {
 
-    private AppBarConfiguration appBarConfiguration;
-    private ActivityMainBinding binding;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -15,8 +15,7 @@ import android.widget.TextView;
 import java.util.Calendar;
 
 
-public class relativeActivity extends AppCompatActivity  {
-
+public class RelativeActivity extends AppCompatActivity  {
 
     DatePickerDialog picker;
     EditText eText;
@@ -37,7 +36,7 @@ public class relativeActivity extends AppCompatActivity  {
                 int month = cldr.get(Calendar.MONTH);
                 int year = cldr.get(Calendar.YEAR);
 
-                picker = new DatePickerDialog(relativeActivity.this,
+                picker = new DatePickerDialog(RelativeActivity.this,
                         new DatePickerDialog.OnDateSetListener() {
                             @Override
                             public void onDateSet(DatePicker datePicker, int year, int monthOfYear, int dayOfMonth) {

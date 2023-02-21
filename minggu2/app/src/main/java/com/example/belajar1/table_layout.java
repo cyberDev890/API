@@ -7,12 +7,14 @@ import androidx.navigation.ui.AppBarConfiguration;
 
 import com.example.belajar1.databinding.ActivityMainBinding;
 
-public class horizontal_layout extends AppCompatActivity {
+public class table_layout extends AppCompatActivity {
 
+    private AppBarConfiguration appBarConfiguration;
+    private ActivityMainBinding binding;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-setContentView(R.layout.horizontal_scrollview);
+        setContentView(R.layout.table_layout);
     }
 }
