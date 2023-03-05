@@ -10,81 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77cfb3a3-c6a3-40ee-bbfa-17d28fd95d3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/recycler_view/Mahasiswa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/recycler_view/MahasiswaAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/recycler_view/card_layout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_card_layout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../minggu2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/androidTest/java/com/example/belajar1/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/java/com/example/belajar1/LinearActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/java/com/example/belajar1/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/java/com/example/belajar1/constraintLayout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/java/com/example/belajar1/framelayout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/java/com/example/belajar1/horizontal_layout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/java/com/example/belajar1/material_design.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/java/com/example/belajar1/relativeActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/java/com/example/belajar1/table_layout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/java/com/example/belajar1/vertikal_layout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/drawable-v24/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/drawable/circle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/layout/constraint_layout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/layout/content_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/layout/frame_layout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/layout/horizontal_scrollview.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/layout/linierlayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/layout/mainmenu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/layout/materialdesign.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/layout/relative_layout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/layout/table_layout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/layout/vertikal_scrollview.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/values-land/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/values-w1240dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/values-w600dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/app/src/test/java/com/example/belajar1/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Tugas mobile.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/recycler_view/Mahasiswa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/recycler_view/MahasiswaAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/recycler_view/card_layout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_card_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_main.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +57,7 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "D:/Data_Kuliah/Semester3&4/Tugas mobile/minggu3",
+    "last_opened_file_path": "D:/Data_Kuliah/Semester3&4/Tugas mobile/minggu3/acara_14",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>

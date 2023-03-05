@@ -36,5 +36,18 @@ public class MainActivity extends AppCompatActivity {
         mahasiswaArrayList.add(new Mahasiswa("Nurul Hudi", "E41211493", "08123457789"));
         mahasiswaArrayList.add(new Mahasiswa("Nurul ", "E41211494", "08123456489"));
         mahasiswaArrayList.add(new Mahasiswa("Salwi", "E41211495", "08123456289"));
+        mahasiswaArrayList.add(new Mahasiswa("Salwi", "E41211495", "08123456289"));
+        mahasiswaArrayList.add(new Mahasiswa("Salwi", "E41211495", "08123456289"));
+        mahasiswaArrayList.add(new Mahasiswa("Salwi", "E41211495", "08123456289"));
+        mahasiswaArrayList.add(new Mahasiswa("Salwi", "E41211495", "08123456289"));
+        mahasiswaArrayList.add(new Mahasiswa("Salwi", "E41211495", "08123456289"));
+        mahasiswaArrayList.add(new Mahasiswa("Salwi", "E41211495", "08123456289"));
+        mahasiswaArrayList.add(new Mahasiswa("Salwi", "E41211495", "08123456289"));
+        mahasiswaArrayList.add(new Mahasiswa("Salwi", "E41211495", "08123456289"));
+        mahasiswaArrayList.add(new Mahasiswa("Salwi", "E41211495", "08123456289"));
+        mahasiswaArrayList.add(new Mahasiswa("Salwi", "E41211495", "08123456289"));
+        mahasiswaArrayList.add(new Mahasiswa("Salwi", "E41211495", "08123456289"));
+        mahasiswaArrayList.add(new Mahasiswa("Salwi", "E41211495", "08123456289"));
+
     }
 }
