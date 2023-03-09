@@ -1,0 +1,7 @@
+<resources>
+    <string name="visit">ImpIntentApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="who_are_you">Who are you</string>
+    <string name="i_am">I am</string>
+    <string name="this_is_second_activity">this is second activity</string>
+</resources>
