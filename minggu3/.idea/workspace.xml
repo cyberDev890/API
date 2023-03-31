@@ -9,62 +9,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77cfb3a3-c6a3-40ee-bbfa-17d28fd95d3e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/minggu3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/minggu3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/androidTest/java/com/fragment/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/java/com/fragment/FirstFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/java/com/fragment/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/java/com/fragment/SecondFragment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/layout/fragment_first.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/layout/fragment_second.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/app/src/test/java/com/fragment/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minggu4/acara18/settings.gradle" beforeDir="false" />
-    </list>
+    <list default="true" id="77cfb3a3-c6a3-40ee-bbfa-17d28fd95d3e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\rayha\.android\avd\Pixel_3a_API_32.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\rayha\.android\avd\Pixel_6_API_32.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
