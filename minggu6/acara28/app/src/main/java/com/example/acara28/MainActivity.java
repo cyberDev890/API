@@ -29,9 +29,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-            Button btn = (Button) findViewById(R.id.button2);
+        Button btn = (Button) findViewById(R.id.button2);
         btn.setOnClickListener(new View.OnClickListener() {
-                @Override
+            @Override
             public void onClick(View arg0) {
                 // TODO Auto-generated method stub
                 Intent intent = new Intent(MainActivity.this, BuatBiodata.class);
@@ -74,16 +74,16 @@ public class MainActivity extends AppCompatActivity {
                             case 1:
                                 Intent in = new Intent(getApplicationContext(), UpdateBiodata.class);
                                 in.putExtra("nama", selection);
-                startActivity(in);
-                break;
-                case 2:
-                SQLiteDatabase db = dbcenter.getWritableDatabase();
-                db.execSQL("delete from biodata where nama = '" + selection + "'");
-                RefreshList();
-                break;
-            }
-        }
-    });
+                                startActivity(in);
+                                break;
+                            case 2:
+                                SQLiteDatabase db = dbcenter.getWritableDatabase();
+                                db.execSQL("delete from biodata where nama = '" + selection + "'");
+                                RefreshList();
+                                break;
+                        }
+                    }
+                });
                 builder.create().show();
             }
         });
