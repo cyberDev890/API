@@ -13,9 +13,9 @@ public class LihatBiodata extends AppCompatActivity {
     protected Cursor cursor;
     DataHelper dbHelper;
     Button ton2;
-    TextView text1, text2, text3, text4, text5;
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {    TextView text1, text2, text3, text4, text5;
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lihat_biodata);
 
