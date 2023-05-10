@@ -37,8 +37,8 @@ public class Acara35 extends AppCompatActivity implements OnMapReadyCallback {
     private Location mLastLocation;
     private Circle mCircle;
 
-    private static final double CIRCLE_LAT = -7.5946; // Latitude of circle center
-    private static final double CIRCLE_LONG = 111.9047; // Longitude of circle center
+    private static final double CIRCLE_LAT = -8.1575; // Latitude of circle center
+    private static final double CIRCLE_LONG = 113.722; // Longitude of circle center
     private static final float CIRCLE_RADIUS = 500; // Radius of circle in meters
 
     @Override
@@ -119,8 +119,8 @@ public class Acara35 extends AppCompatActivity implements OnMapReadyCallback {
                     mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(latLng, 15f));
 
                     // Add a circle with the given radius from the current location
-                    double manualLatitude = -7.5946; // Replace with the desired latitude
-                    double manualLongitude = 111.9047; // Replace with the desired longitude
+                    double manualLatitude = -8.1575; // Replace with the desired latitude
+                    double manualLongitude = 113.7227; // Replace with the desired longitude
                     double radiusInMeters = 500; // Change this value to set the desired radius in meters
                     CircleOptions circleOptions = new CircleOptions()
                             .center(new LatLng(manualLatitude, manualLongitude))
@@ -177,7 +177,8 @@ public class Acara35 extends AppCompatActivity implements OnMapReadyCallback {
                 Toast.makeText(this, "Please move within the proximity circle", Toast.LENGTH_LONG).show();
             } else {
                 // The user is inside the circle, set up proximity alert to open URL
-                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://uptime.yoganova.my.id"));
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/cyberDev890" +
+                        ""));
                 PendingIntent pendingIntent = PendingIntent.getActivity(this, 0, intent, PendingIntent.FLAG_MUTABLE);
                 locationManager.addProximityAlert(CIRCLE_LAT, CIRCLE_LONG, CIRCLE_RADIUS, -1, pendingIntent);
                 Toast.makeText(this, "Location is within the proximity circle", Toast.LENGTH_LONG).show();
