@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         btnAcara33 = findViewById(R.id.btnLaunchMaps);
         btnAcara33.setOnClickListener(new View.OnClickListener() {
             @Override
